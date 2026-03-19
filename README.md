@@ -5,12 +5,12 @@
 <h1 align="center">Moisés Kalebbe</h1>
 
 <p align="center">
-  Construo sistemas com <strong>IA</strong>, <strong>automações</strong> e <strong>produtos digitais</strong><br />
+  Construo <strong>produtos digitais</strong>, <strong>automações</strong> e <strong>sistemas com IA</strong><br />
   para operação, conversão e redução de trabalho manual.
 </p>
 
 <p align="center">
-  <a href="https://moiseskalebbe.com">Site</a>
+  <a href="https://lp.moiseskalebbe.com/">Site</a>
   ·
   <a href="https://github.com/moi-kalebbe/postiz-app">Projeto público</a>
 </p>
@@ -25,7 +25,6 @@
 ## Ecossistemas
 
 - **Rumo ao Lucro**: produtos, dashboards e automações para gestão e acompanhamento
-- **Astra Numérica**: experiências de captação, formulários e jornadas assistidas
 - **Rumo à Máxima Potência**: produtos e operação digital com foco em performance
 - **Golden Belle**: sistemas de disparo, operação e mensageria
 - **Lu Burger**: estrutura digital e automações de operação da marca
@@ -48,14 +47,14 @@
 - Menos dashboard vazio, mais leitura útil para decisão
 - Menos trabalho manual repetitivo, mais software trabalhando a favor do time
 
-## Perfil
+## Presença
 
+- **Site**: [lp.moiseskalebbe.com](https://lp.moiseskalebbe.com/)
 - **Base**: Limeira, SP
-- **Site**: [moiseskalebbe.com](https://moiseskalebbe.com)
 - **CNPJ**: `65.734.319/0001-96`
 
 ---
 
 <p align="center">
-  Vitrine mínima, operação séria.
+  Vitrine mínima. Operação séria.
 </p>
