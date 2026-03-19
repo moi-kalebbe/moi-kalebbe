@@ -1,33 +1,61 @@
-﻿# Moisés Kalebbe
+﻿<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Moisés Kalebbe" width="100%" />
+</p>
 
-Construo produtos digitais com foco em IA, automações e operação.
+<h1 align="center">Moisés Kalebbe</h1>
 
-## O que você encontra aqui
-- SaaS e painéis internos em `Next.js`, `React` e `TypeScript`
-- Plataformas de automação e conteúdo
-- Landing pages orientadas a conversão
-- Ferramentas operacionais para produtividade, CRM e fluxos internos
+<p align="center">
+  Construo sistemas com <strong>IA</strong>, <strong>automações</strong> e <strong>produtos digitais</strong><br />
+  para operação, conversão e redução de trabalho manual.
+</p>
 
-## Destaques
-- [post-moi](https://github.com/moi-kalebbe/post-moi): SaaS para agendamento, geração e operação de conteúdo para redes sociais
-- [PostPro](https://github.com/moi-kalebbe/PostPro): plataforma Django para automação de conteúdo e integrações WordPress
-- [astra-form](https://github.com/moi-kalebbe/astra-form): formulário guiado com IA e suporte a voz para captação e qualificação
-- [identidadeimplacavel](https://github.com/moi-kalebbe/identidadeimplacavel): landing page com foco em posicionamento e conversão
-- [astra-pix-page](https://github.com/moi-kalebbe/astra-pix-page): página mobile-first para pagamento via Pix
+<p align="center">
+  <a href="https://moiseskalebbe.com">Site</a>
+  ·
+  <a href="https://github.com/moi-kalebbe/postiz-app">Projeto público</a>
+</p>
+
+## O que eu construo
+
+- Plataformas internas para operação e produtividade
+- Fluxos de automação com foco em execução real
+- Landing pages e experiências digitais orientadas à conversão
+- Sistemas conectando conteúdo, CRM, dashboards, filas e integrações
+
+## Ecossistemas
+
+- **Rumo ao Lucro**: produtos, dashboards e automações para gestão e acompanhamento
+- **Astra Numérica**: experiências de captação, formulários e jornadas assistidas
+- **Rumo à Máxima Potência**: produtos e operação digital com foco em performance
+- **Golden Belle**: sistemas de disparo, operação e mensageria
+- **Lu Burger**: estrutura digital e automações de operação da marca
 
 ## Stack recorrente
-- `Next.js`
-- `React`
-- `TypeScript`
-- `Supabase`
-- `Python / Django`
-- `Automação de conteúdo`
-- `WhatsApp / filas / workers`
 
-## Contato
-- Site: [moiseskalebbe.com](https://moiseskalebbe.com)
-- Localização: Limeira, SP
-- CNPJ: `65.734.319/0001-96`
+<p>
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-0B1F33?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0B1F33?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-0B1F33?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-0B1F33?style=for-the-badge&logo=python&logoColor=FFD43B" />
+  <img alt="Django" src="https://img.shields.io/badge/Django-0B1F33?style=for-the-badge&logo=django&logoColor=92E6A7" />
+</p>
 
-## Foco
-Criar sistemas que reduzem trabalho manual, organizam operação e transformam processos em software.
+## Como eu penso produto
+
+- Menos ferramenta solta, mais sistema que resolve operação
+- Menos automação de brinquedo, mais fluxo confiável
+- Menos dashboard vazio, mais leitura útil para decisão
+- Menos trabalho manual repetitivo, mais software trabalhando a favor do time
+
+## Perfil
+
+- **Base**: Limeira, SP
+- **Site**: [moiseskalebbe.com](https://moiseskalebbe.com)
+- **CNPJ**: `65.734.319/0001-96`
+
+---
+
+<p align="center">
+  Vitrine mínima, operação séria.
+</p>

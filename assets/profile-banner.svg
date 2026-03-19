@@ -1,0 +1,42 @@
+﻿<svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="640" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="1" stop-color="#0C1F36"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="236" y1="194" x2="1044" y2="458" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#59F06A"/>
+      <stop offset="1" stop-color="#F5D547"/>
+    </linearGradient>
+    <filter id="blur" x="64" y="74" width="1152" height="492" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="30"/>
+    </filter>
+  </defs>
+  <rect width="1280" height="640" rx="36" fill="url(#bg)"/>
+  <g opacity="0.12">
+    <path d="M0 92H1280" stroke="white"/>
+    <path d="M0 184H1280" stroke="white"/>
+    <path d="M0 276H1280" stroke="white"/>
+    <path d="M0 368H1280" stroke="white"/>
+    <path d="M0 460H1280" stroke="white"/>
+    <path d="M0 552H1280" stroke="white"/>
+    <path d="M160 0V640" stroke="white"/>
+    <path d="M320 0V640" stroke="white"/>
+    <path d="M480 0V640" stroke="white"/>
+    <path d="M640 0V640" stroke="white"/>
+    <path d="M800 0V640" stroke="white"/>
+    <path d="M960 0V640" stroke="white"/>
+    <path d="M1120 0V640" stroke="white"/>
+  </g>
+  <g filter="url(#blur)" opacity="0.25">
+    <circle cx="1000" cy="186" r="128" fill="#59F06A"/>
+    <circle cx="248" cy="480" r="164" fill="#F5D547"/>
+  </g>
+  <rect x="84" y="82" width="1112" height="476" rx="28" fill="white" fill-opacity="0.03" stroke="white" stroke-opacity="0.12"/>
+  <text x="124" y="168" fill="#8FB3D9" font-family="Segoe UI, Arial, sans-serif" font-size="26" letter-spacing="3.2">MOISES KALEBBE</text>
+  <text x="124" y="276" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="86" font-weight="700">IA, automacoes e</text>
+  <text x="124" y="372" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="86" font-weight="700">produtos digitais</text>
+  <rect x="124" y="414" width="820" height="2" fill="url(#accent)"/>
+  <text x="124" y="470" fill="#C9D7E6" font-family="Segoe UI, Arial, sans-serif" font-size="28">Sistemas para operacao, conversao e ganho de produtividade real.</text>
+  <text x="124" y="526" fill="#9AC7A2" font-family="Segoe UI, Arial, sans-serif" font-size="24">Rumo ao Lucro  •  Astra Numerica  •  Rumo a Maxima Potencia  •  Golden Belle</text>
+</svg>
